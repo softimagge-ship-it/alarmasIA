@@ -1,0 +1,6 @@
+{
+  "name": "Avisos & Alarma IA",
+  "description": "App tipo reloj, alarma y temporizador con avisos personalizados, integración con calendario, locución por altavoz (TTS) y creación por voz con IA Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
